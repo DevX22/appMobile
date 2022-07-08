@@ -8,4 +8,4 @@
 
 let Empresa="L&B";
 
-console.log('bienvenidos a la App',Empresa,'Admin');
+console.log('bienvenidos a la App',Empresa+'Admin');
